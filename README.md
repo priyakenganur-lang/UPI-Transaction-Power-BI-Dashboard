@@ -1,4 +1,4 @@
-# UPI-Transaction-Poer-BI-Dashboard
+# UPI-Transaction-Power-BI-Dashboard
 Project Overview
 
  This project focuses on analyzing UPI (Unified Payments Interface) transaction data using Microsoft Power BI. The dashboard provides a comprehensive overview of transaction patterns, including payment methods, bank performance, customer demographics, and transaction status. It helps users gain meaningful insights into digital payment trends and supports data-driven decision-making.
