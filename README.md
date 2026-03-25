@@ -65,33 +65,33 @@ Data Pipeline
 ________________________________________
 Dashboard Features
 
-•	KPI Cards:
+ •	KPI Cards:
 
-o	Total Transactions
+  o	Total Transactions
 
-o	 Total Amount
+  o	 Total Amount
 
-•	Visualizations:
+ •	Visualizations:
 
-o	Donut charts (Gender, Payment Status)
+  o	Donut charts (Gender, Payment Status)
 
-o	Bar charts (Payment Method, City-wise Amount)
+  o	Bar charts (Payment Method, City-wise Amount)
 
-o	Tree maps (Transaction Purpose & Merchants)
+  o	Tree maps (Transaction Purpose & Merchants)
 
-o	Drill-down and filtering options for deeper insights
+  o	Drill-down and filtering options for deeper insights
 
 •	Filters (Slicers):
 
-o	Transaction Date (Date range slider)
+  o	Transaction Date (Date range slider)
 
-o	Sender Bank Name (Axis Bank, HDFC, ICICI, SBI)
+  o	Sender Bank Name (Axis Bank, HDFC, ICICI, SBI)
 
-o	Beneficiary Bank Name (Axis Bank, HDFC, ICICI, SBI)
+  o	Beneficiary Bank Name (Axis Bank, HDFC, ICICI, SBI)
 
-o	City (Bangalore, Delhi, Hyderabad)
+  o	City (Bangalore, Delhi, Hyderabad)
 
-o	Transaction Type (Payment, Transfer)
+  o	Transaction Type (Payment, Transfer)
 ________________________________________
 Key Insights
 
